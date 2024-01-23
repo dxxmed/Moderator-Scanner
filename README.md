@@ -57,6 +57,7 @@ I’ve been talking about settings, this is how you can change and modify them (
 
 Oh by the way, you need to do this in the console because the code in a Script won’t run until you test the game and when it does eventually run, it won’t have access to the plugin and it won’t save cause you’re testing.
 
+```lua
 -- example for yall (IN CONSOLE)
 local ModScanner = require(path.to.module)
 ModScanner:SetProperty({exampleProp
@@ -69,6 +70,7 @@ their actual names in the
 “Properties” table in the ModuleScript
 lol
 ]]
+```
 
 <br>
 
