@@ -1,1 +1,0 @@
--- Source code for "Moderator Scanner" by Doomcolp
